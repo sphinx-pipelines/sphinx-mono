@@ -1,17 +1,15 @@
-Welcome to the Code amd Docs Monorepo Documentation!
-====================================================
+Welcome to the sphinx-mono repository!
+======================================
 
-This is the central gateway file for the Sphinx pipeline.
+This is the central gateway-file for the **sphinx-mono** pipeline repository.
 
-This single-repository framework demonstrates a unified architecture in which
-software components and their native reST documentation live under a single roof.
-In this particular demonstration repository, all core-content chapters are
-isolated in separate ``.rst`` files in the ``resources/`` directory.
+The all-in-one **sphinx-mono** repository framework demonstrates an integrated architecture in which software components and their native reST documentation live under a single roof.
 
-
+Table of Contents
+-----------------
 .. toctree::
    :maxdepth: 2
-   :caption: Codebase Blueprint Reference:
+   :caption: Table of Contents:
 
    resources/rst/installation
    resources/rst/usage
