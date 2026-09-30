@@ -1,0 +1,8 @@
+# Sphinx build artifact directory:
+docs/_build/
+
+# Python environment runtime caches:
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
