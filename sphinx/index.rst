@@ -9,5 +9,6 @@ The all-in-one **sphinx-mono** repository framework demonstrates an integrated a
    :maxdepth: 2
    :caption: Table of Contents:
 
+   resources/rst/api
    resources/rst/installation
    resources/rst/usage
